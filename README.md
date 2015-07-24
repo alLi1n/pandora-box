@@ -9,7 +9,8 @@ Features:
 		
 		- Set-up of fake access-point.
 		
-		- Possibility to perform evil-twin attack (cloning the targeted access-point and de-authenticate users from theirs legit access-point).
+		- Possibility to perform evil-twin attack (cloning the targeted access-point and de-authenticate 
+users from theirs legit access-point).
 		
 		- Real-time monitoring of the connected users on the fake/evil-twin access-point.
 		
