@@ -15,11 +15,16 @@ Features:
 
 ## Requirements
 
-This script is designed to run on the Kali Linux distribution.
+This script is designed to run on the **Kali Linux** distribution.
 
 ## Usage
 
+To run the pandora-box script, you first need to give it the execution right:
+		
 		$ chmod +x pandora-box
+### Examples:
+To launch the pandora-box script:
+
 		$ ./pandora-box.sh
 
 
