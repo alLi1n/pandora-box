@@ -1,6 +1,0 @@
-14:47:42  Created tap interface at0
-14:47:42  Trying to set MTU on at0 to 1500
-14:47:42  Trying to set MTU on mon0 to 1800
-14:47:42  Access Point with BSSID C0:4A:00:16:13:BA started.
-14:58:35  Client B4:52:7E:D8:0E:F3 associated (unencrypted) to ESSID: "my_wifi"
-15:23:46  Client B4:52:7E:D8:0E:F3 associated (unencrypted) to ESSID: "my_wifi"
