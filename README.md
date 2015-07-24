@@ -1,5 +1,5 @@
 # pandora-box
-A script to automatise man in the middle attacks.
+Script to automatise man in the middle attacks.
 
 Features:
 
