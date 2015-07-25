@@ -28,5 +28,5 @@ To launch the pandora-box script:
 		$ ./pandora-box.sh
 		
 ## Project information		
-This script was developped as part of my master thesis work in June 2015.
+This script was developed as part of my master thesis work in June 2015.
 
