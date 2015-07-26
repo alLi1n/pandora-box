@@ -22,6 +22,7 @@ This script is designed to run on the **Kali Linux** distribution.
 To run the pandora-box script, you first need to give it the execution right:
 		
 		$ chmod +x pandora-box
+		
 ### Examples:
 To launch the pandora-box script:
 
