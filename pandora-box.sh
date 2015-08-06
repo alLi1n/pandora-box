@@ -54,7 +54,7 @@ echo -e "${lightblue}
 ${lightblue}[---]        Created by: ${lightred}Alexandre Teyar ${lightblue}(${lightyellow}Ares${lightblue})        ${lightblue}[---]  
 [---]                 Version: ${lightred}0.1 ${lightblue}                    [---]
 [---]                Codename: ${lightblue}'${lightyellow}Alpha${lightblue}'                 ${lightblue}[---]
-[---]           Follow me on github: ${aqua}@Ares             ${lightblue}[---]
+[---]         Follow me on github: ${aqua}@AresS31            ${lightblue}[---]
 "
 }
 
